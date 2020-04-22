@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scoreboard/static/css/main.d1b05096.chunk.css",
+    "main.js": "/scoreboard/static/js/main.b4e488d6.chunk.js",
+    "main.js.map": "/scoreboard/static/js/main.b4e488d6.chunk.js.map",
+    "runtime-main.js": "/scoreboard/static/js/runtime-main.567d7b41.js",
+    "runtime-main.js.map": "/scoreboard/static/js/runtime-main.567d7b41.js.map",
+    "static/css/2.69121389.chunk.css": "/scoreboard/static/css/2.69121389.chunk.css",
+    "static/js/2.e8b4a582.chunk.js": "/scoreboard/static/js/2.e8b4a582.chunk.js",
+    "static/js/2.e8b4a582.chunk.js.map": "/scoreboard/static/js/2.e8b4a582.chunk.js.map",
+    "index.html": "/scoreboard/index.html",
+    "precache-manifest.68298a4f508f9f66c3556e97db45ebc1.js": "/scoreboard/precache-manifest.68298a4f508f9f66c3556e97db45ebc1.js",
+    "service-worker.js": "/scoreboard/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/scoreboard/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/scoreboard/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e8b4a582.chunk.js.LICENSE.txt": "/scoreboard/static/js/2.e8b4a582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567d7b41.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.e8b4a582.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b4e488d6.chunk.js"
+  ]
+}
